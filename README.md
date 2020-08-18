@@ -1,2 +1,2 @@
 # Pruning
-Notes about pruning neural networks 
+Notes and experiments about pruning neural networks. 
